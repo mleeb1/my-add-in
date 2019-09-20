@@ -2,7 +2,7 @@
 
 ## See
 ```
-https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-quickstart-vue
+https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-quickstart-vue 
 ```
 
 ### Restore packages
